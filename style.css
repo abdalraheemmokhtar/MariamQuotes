@@ -6,11 +6,11 @@
   }
   h2 {
       margin-left: 90px;
-      color: #f43543
+      color: #9e0059
   }
 
   body {
-    background-color: #f43543;
+    background-color: #9e0059;
   }
   .wrapper {
     width: 400px;
@@ -21,7 +21,7 @@
   }
   .container {
     width: 100%;
-    background-color: #f43543;
+    background-color: #9e0059;
     padding: 50px 40px;
     box-shadow: 0 20px 65px rgba(87, 11, 16, 0.5);
     position: relative;
