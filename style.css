@@ -5,7 +5,7 @@
     font-family: "Poppins", sans-serif;
   }
   h2 {
-      margin-left: 70px;
+      margin-left: 60px;
       color: #9e0059
   }
 
@@ -39,7 +39,7 @@
     left: 10%;
   }
   .container p {
-    color: #fdd8d8;
+    color: #9e0059;
     line-height: 2;
     font-size: 18px;
   }
