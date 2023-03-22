@@ -5,7 +5,7 @@
     font-family: "Poppins", sans-serif;
   }
   h2 {
-      margin-left: 60px;
+      margin-left: 50px;
       color: #9e0059
   }
 
@@ -56,6 +56,6 @@
     border-radius: 5px;
     font-size: 18px;
     font-weight: 600;
-    color: #f43543;
+    color: #9e0059;
     cursor: pointer;
   }
