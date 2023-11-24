@@ -1,1 +1,1 @@
-# Mariam random quotes
+# Random quotes
